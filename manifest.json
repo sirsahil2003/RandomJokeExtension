@@ -1,0 +1,12 @@
+{
+"name":"Random Joke ",
+"description": "Random Joke fetched from API chuck norris",
+"version": "0.0.1",
+"manifest_version": 3,
+
+"action":{
+"default_popup":"popup.html" ,
+"default_icon": "fav.png"
+}
+
+}
